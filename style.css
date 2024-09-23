@@ -333,6 +333,14 @@ article .icon {
   background: rgb(229, 245, 250);
 }
 
+.color-container-even {
+  background: none;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+
+}
+
 .project-img {
   border-radius: 2rem;
   width: 90%;
